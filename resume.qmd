@@ -16,9 +16,9 @@ Deep expertise in NLP, generative AI, and Azure-based data science platforms. Tr
 
 | Category | Skills |
 |------------------------------------|------------------------------------|
-| **Cloud Platforms** | Azure (ML, Databricks, Data Factory), Hadoop, Spark, Hive, Cloudera |
+| **Cloud Platforms** | Azure (ML, Databricks, Data Factory), Hadoop, Spark, Hive, AWS |
 | **LLM & Deep Learning** | BERT, T5, RNN (LSTM), CNN, GAN, RAG, Prompt Engineering, TensorFlow, PyTorch, MLflow |
-| **Machine Learning** | Classification, Regression, Clustering, Forecasting, Anomaly Detection |
+| **Machine Learning & Statistics** | Classification, Regression, Clustering, Forecasting, Anomaly Detection, Bayesian modelling, Bayesian Network, Monte Carlo Simulation |
 | **Languages & Tools** | Python, R, Scala, SQL, Git |
 | **Frameworks** | Hugging Face, MLOps, Docker, Spark-NLP |
 
@@ -28,8 +28,9 @@ Deep expertise in NLP, generative AI, and Azure-based data science platforms. Tr
 
 ### Senior Data Scientist \| Jobs and Skills Australia (May 2018 – Present)
 
--   Deployed NLP pipeline using Transformer models on Azure Databricks analyzing 2M+ job ads.
--   Built RAG system to match skills with qualifications — improving match accuracy by 40%.
+-   Successfully built and deployed an ensemble of machine learning models.
+-   Deployed an NLP pipeline using Transformer models on Azure Databricks to analyse large, unstructured datasets.
+-   Built system to match skills with qualifications.
 -   Integrated MLflow to manage model lifecycle — reducing deployment time by 30%.
 -   Advised on Azure-based scalable data infrastructure.
 -   Mentored teams on ML, Python, and Spark.

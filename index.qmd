@@ -1,11 +1,32 @@
 ---
-title: "Shamiri"
+title: "Samuel Shamiri"
+about:
+  id: hero-heading
+  template: broadside
+  image: image/sam_ai_web.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
 ---
 
-This is a Quarto website.
+::: {#hero-heading}
+Innovative and results-oriented Senior Data Scientist with a PhD in Statistics and over 15 years of experience in advanced statistical modeling, machine learning, large language models (LLMs), and cloud-based analytics. Proven ability to translate complex data into actionable insights for government, public policy, finance, and commercial sectors.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## 🎓 Education
 
-```{r}
-1 + 1
-```
+-   PhD in Statistics
+-   Master in Financial Economics (Econometrics)
+-   Degree in Statistics
+
+## 💼 Experience
+
+Senior Data Scientist \| Jobs and Skills Australia (May 2018 – Present)
+
+Further details available at [resume section](resume.qmd).
+:::
+
+
