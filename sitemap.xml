@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://SShamiri.github.io/Shamiri/blog.html</loc>
+    <lastmod>2025-06-24T09:33:44.043Z</lastmod>
+  </url>
+  <url>
     <loc>https://SShamiri.github.io/Shamiri/about.html</loc>
-    <lastmod>2025-06-23T10:47:46.128Z</lastmod>
+    <lastmod>2025-06-24T09:33:44.043Z</lastmod>
   </url>
   <url>
     <loc>https://SShamiri.github.io/Shamiri/index.html</loc>
-    <lastmod>2025-06-23T10:47:46.128Z</lastmod>
+    <lastmod>2025-06-24T09:33:44.043Z</lastmod>
+  </url>
+  <url>
+    <loc>https://SShamiri.github.io/Shamiri/resume.html</loc>
+    <lastmod>2025-06-24T09:33:44.044Z</lastmod>
   </url>
 </urlset>

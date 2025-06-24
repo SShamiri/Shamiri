@@ -12,5 +12,54 @@
     "title": "Shamiri",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Dr. Samuel Shamiri",
+    "section": "",
+    "text": "Innovative and results-oriented Senior Data Scientist with a PhD in Statistics and over 15 years of experience in advanced statistical modeling, machine learning, large language models (LLMs), and cloud-based analytics. Proven ability to translate complex data into actionable insights for government, public policy, finance, and commercial sectors.\nDeep expertise in NLP, generative AI, and Azure-based data science platforms. Track record of building and deploying scalable solutions using Python, R, Spark, Databricks, and MLflow."
+  },
+  {
+    "objectID": "resume.html#professional-summary",
+    "href": "resume.html#professional-summary",
+    "title": "Dr. Samuel Shamiri",
+    "section": "",
+    "text": "Innovative and results-oriented Senior Data Scientist with a PhD in Statistics and over 15 years of experience in advanced statistical modeling, machine learning, large language models (LLMs), and cloud-based analytics. Proven ability to translate complex data into actionable insights for government, public policy, finance, and commercial sectors.\nDeep expertise in NLP, generative AI, and Azure-based data science platforms. Track record of building and deploying scalable solutions using Python, R, Spark, Databricks, and MLflow."
+  },
+  {
+    "objectID": "resume.html#technical-proficiencies",
+    "href": "resume.html#technical-proficiencies",
+    "title": "Dr. Samuel Shamiri",
+    "section": "🧰 Technical Proficiencies",
+    "text": "🧰 Technical Proficiencies\n\n\n\n\n\n\n\nCategory\nSkills\n\n\n\n\nCloud Platforms\nAzure (ML, Databricks, Data Factory), Hadoop, Spark, Hive, Cloudera\n\n\nLLM & Deep Learning\nBERT, T5, RNN (LSTM), CNN, GAN, RAG, Prompt Engineering, TensorFlow, PyTorch, MLflow\n\n\nMachine Learning\nClassification, Regression, Clustering, Forecasting, Anomaly Detection\n\n\nLanguages & Tools\nPython, R, Scala, SQL, Git\n\n\nFrameworks\nHugging Face, MLOps, Docker, Spark-NLP"
+  },
+  {
+    "objectID": "resume.html#professional-experience",
+    "href": "resume.html#professional-experience",
+    "title": "Dr. Samuel Shamiri",
+    "section": "💼 Professional Experience",
+    "text": "💼 Professional Experience\n\nSenior Data Scientist | Jobs and Skills Australia (May 2018 – Present)\n\nDeployed NLP pipeline using Transformer models on Azure Databricks analyzing 2M+ job ads.\nBuilt RAG system to match skills with qualifications — improving match accuracy by 40%.\nIntegrated MLflow to manage model lifecycle — reducing deployment time by 30%.\nAdvised on Azure-based scalable data infrastructure.\nMentored teams on ML, Python, and Spark.\n\n\n\nAssociate Director | Analytic Partners (Jan 2017 – Mar 2018)\n\nLed ML initiatives; developed roadmap and increased client revenue by 15%.\nBuilt market mix and digital attribution models — optimizing spend by over $5M.\n\n\n\nData Scientist & Senior Analyst | Equifax & Starcom (2012 – 2016)\n\nCreated credit risk models with XGBoost on Azure ML — boosting accuracy by 25%.\nDesigned automated Python/R/SQL workflows — increasing team productivity.\nDelivered social network and econometric models for stakeholder intelligence.\n\n\n\nStatistician | Forethought Market Research (2011 – 2012)\n\nLed training on R for Marketing Science team.\nDeveloped Hierarchical Bayes models (CBC, MaxDiff, MCMC, Gibbs).\nBuilt GUIs in R for client-side solutions.\n\n\n\nSenior Lecturer | University of Malaya (2009 – 2010)\n\nTaught actuarial and financial math courses.\nSupervised final-year actuarial projects and ran applied stats workshops."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Dr. Samuel Shamiri",
+    "section": "🎓 Education",
+    "text": "🎓 Education\n\nPhD in Statistics\nMaster in Financial Economics (Econometrics)\nDegree in Statistics"
+  },
+  {
+    "objectID": "resume.html#certifications-publications",
+    "href": "resume.html#certifications-publications",
+    "title": "Dr. Samuel Shamiri",
+    "section": "🏅 Certifications & Publications",
+    "text": "🏅 Certifications & Publications\n\nMachine Learning (Stanford / Coursera)\nApache Spark (MapR Technologies)\nPublished 10+ peer-reviewed articles on statistical modelling & financial risk\n[Publication list available upon request]"
+  },
+  {
+    "objectID": "resume.html#key-achievements",
+    "href": "resume.html#key-achievements",
+    "title": "Dr. Samuel Shamiri",
+    "section": "🏆 Key Achievements",
+    "text": "🏆 Key Achievements\n\nLLM Deployment: Reduced manual review by 50% via Azure BERT pipeline.\nAzure Migration: Cut ML cost by 35% via Databricks refactor.\nAward Finalist: ADMA 2014, Cross-Channel Analytics.\nPOEM Model: Developed unified MMM framework across continents.\nProphecy Method: Helped develop AMSRS-award-winning market model."
   }
 ]
