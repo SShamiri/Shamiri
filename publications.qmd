@@ -1,0 +1,44 @@
+---
+title: "Dr. Samuel Shamiri"
+format: html
+page-layout: full
+editor: visual
+---
+
+# 📚 Publications & Working Papers
+
+### 2024
+
+-   **Lake, P., Shamiri, S., Sharma, K., & Bialowas, A.** (2024). *How efficient is the Australian labour market? Analysing job matching efficiency for regions, occupations and industries*. *Australian Journal of Labour Economics*, 27(1), 101-117.
+
+### 2022
+
+-   **Shamiri, A. et al.** (2022). *Nowcasting the Australian Labour Market at Disaggregated Levels*. *The Australian Economic Review*, 55(3), 389–404.
+
+### 2011
+
+-   **Bhattacharjee, S., Shamiri, A., Sabiruzzaman, & Jammalamadaka, R.** (2011). *Predictive influence of unavailable values of future explanatory variables in a linear model*. *Communications in Statistics - Theory and Methods*, 40(24), 4458–4466.
+-   **Shamiri, A., Aishah, H., & Pirmoradian, A.** (2011). *Tail Dependence Estimate in Financial Market Risk Management: Clayton-Gumbel Copula Approach*. *Sains Malaysiana*, 40(8), 927–935.
+
+### 2010
+
+-   **Shamiri, A., Isa, Z.** (2010). *Volatility transmission: what do Asia-Pacific markets expect?* *Studies in Economics and Finance*, 27(4), 299–313.
+
+### 2009
+
+-   **Shamiri, A., Isa, Z.** (2009). *The US Crisis and the Volatility Spillover across South East Asia Stock Markets*. *International Research Journal of Finance and Economics*, 34, 7–17.
+-   **Shamiri, A., Mohd. Nor, A.H.S., & Isa, Z.** (2009). *Comparing the Accuracy of Density Forecasts from Competing GARCH Models*. *Sains Malaysiana*, 38(1), 95–104.
+-   **Shamiri, A., Isa, Z., & Hassan, A.** (2009). *Forecasting Volatility for Financial Market Risk Management: Application to Malaysian Stock Market Returns*. *European Journal of Economics, Finance and Administrative Sciences*, 14, 126–134.
+-   **Shamiri, A., Hassan, A., & Ziadi, I.** (2009). *Modelling and Forecasting Volatility of the Malaysian Stock Markets*. *Journal of Mathematics and Statistics*, 5(3), 234–240.
+
+### 2007
+
+-   **Shamiri, A., & Abu Hassan.** (2007). *Modeling and Forecasting Volatility of the Malaysian and Singaporean stock indices using Asymmetric GARCH models and Non-normal Densities*. *Malaysian Journal of Mathematical Science*, 1(1), 83–102.
+
+### 2005
+
+-   **Joher, H., Hassan, A., & Nasir, A.** (2005). *The Relationship between Trading Volume, Volatility and Stock Market Returns: A test of Mixed Distribution Hypothesis for a Pre- and Post Crisis on Kuala Lumpur Stock Exchange*. *Investment Management and Financial Innovations*, 3, 146–158.
+
+------------------------------------------------------------------------
+
+### 📄 Additional working papers available upon request.

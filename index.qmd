@@ -3,15 +3,17 @@ title: "Samuel Shamiri"
 about:
   id: hero-heading
   template: broadside
-  image: image/sam_ai_web.jpg
+  image: image/sam_ai_web2.png
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/samuel-shamiri-5307012a/?originalSubdomain=au
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/SShamiri
 ---
+
+## ***“No data is clean, but most is useful.”*** ~Dean\ Abbott~
 
 ::: {#hero-heading}
 Innovative and results-oriented Senior Data Scientist with a PhD in Statistics and over 15 years of experience in advanced statistical modeling, machine learning, large language models (LLMs), and cloud-based analytics. Proven ability to translate complex data into actionable insights for government, public policy, finance, and commercial sectors.
@@ -28,5 +30,3 @@ Senior Data Scientist \| Jobs and Skills Australia (May 2018 – Present)
 
 Further details available at [resume section](resume.qmd).
 :::
-
-

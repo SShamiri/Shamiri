@@ -11,7 +11,7 @@ website:
         text: Resume
       - href: blog.qmd
         text: Posts
-      - href: pub.qmd
+      - href: publications.qmd
         text: Papers
 
 format:
