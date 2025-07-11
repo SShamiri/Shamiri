@@ -1,0 +1,52 @@
+---
+title: "The Great Australian Pay Squeeze"
+subtitle: "A Picture That Explains Why You're Feeling Poorer"
+author: "Samuel Shamiri"
+date: "today"
+image: image/sam_ai_web.png
+format: 
+  html:
+    theme: cosmo
+    toc: true
+    toc-location: left
+    code-fold: false
+    mainfont: "Inter"
+---
+
+## The Widening Gap Between Pay and Prices
+
+Ever get that nagging feeling at the end of the month that your paycheque, despite maybe going up, just doesn't stretch as far as it used to? You're not just imagining it. The trip to the supermarket costs more, the petrol pump feels punishing, and your savings goals seem to be drifting further away.
+
+As Australia emerges from a period of steep price increases, one pressing question remains: **Have wages kept up with inflation?**
+
+A single chart can sometimes tell the entire story with shocking clarity. This visual, tracking over the past decade of Australian economic life, pits two crucial metrics against each other: the growth of our wages versus the rising cost of living. The results are sobering.
+
+------------------------------------------------------------------------
+
+![cpi-wage](image/cpi_wage.png)
+
+------------------------------------------------------------------------
+
+## Analysis of the Trend
+
+From 2021 to 2023, inflation surged to levels unseen in decades, outpacing wage growth by a wide margin. During this period, the real purchasing power of workers **declined significantly**, even though nominal wages were technically increasing.
+
+This wage-price gap, shown in stark contrast on the chart, highlights the pressure many households felt—where pay rises simply didn’t cover the rising cost of living.
+
+### A Glimmer of Hope?
+
+There may be some relief on the horizon. By early 2025, CPI growth appears to be slowing, while real wages begin to rebound. Whether this trend continues will depend on several factors:
+
+-   The pace of inflation moderation.
+-   Sustained, meaningful wage growth.
+-   The broader economic climate.
+
+## Key Takeaways
+
+The data presents a clear narrative with important implications:
+
+-   **Loss of Real Income:** Wage growth lagged inflation substantially between 2021–2023, leading to a tangible loss in real income for many Australians.
+-   **Slow Recovery:** Real wages are beginning to recover, but closing the gap created over the previous years may take considerable time.
+-   **Policy is Critical:** Future outcomes will be heavily influenced by policy responses, including wage-setting mechanisms, fiscal supports, and national productivity strategies.
+
+This insight reinforces the importance of not just measuring economic growth, but ensuring it translates to **real improvements in living standards** for everyone.

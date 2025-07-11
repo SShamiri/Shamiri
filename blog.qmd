@@ -1,3 +1,20 @@
 ---
-title: "blogs"
+title: List of Articals
+listing: 
+  - id: cpi_wage
+    contents: "blog/pay_squeeze.qmd"
+    type: default
+  - id: meeting-notes
+    contents: "meeting-notes/*.qmd"
+    type: default
 ---
+
+## Economics
+
+::: {#cpi_wage}
+:::
+
+## Data Science
+
+::: {#meeting-notes}
+:::
