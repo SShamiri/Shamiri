@@ -3,7 +3,7 @@ title: "The Great Australian Pay Squeeze"
 subtitle: "A Picture That Explains Why You're Feeling Poorer"
 author: "Samuel Shamiri"
 date: "today"
-image: image/sam_ai_web.png
+image: preview_cpi_wage.png
 format: 
   html:
     theme: cosmo
@@ -23,7 +23,7 @@ A single chart can sometimes tell the entire story with shocking clarity. This v
 
 ------------------------------------------------------------------------
 
-![cpi-wage](image/cpi_wage.png)
+![cpi-wage](preview_cpi_wage.png)
 
 ------------------------------------------------------------------------
 
