@@ -3,7 +3,7 @@ title: "The Great Australian Pay Squeeze"
 subtitle: "A Picture That Explains Why You're Feeling Poorer"
 author: "Samuel Shamiri"
 date: "today"
-image: preview_cpi_wage.png
+image: cpi_wage.png
 format: 
   html:
     theme: cosmo
@@ -23,7 +23,7 @@ A single chart can sometimes tell the entire story with shocking clarity. This v
 
 ------------------------------------------------------------------------
 
-![cpi-wage](preview_cpi_wage.png)
+![cpi-wage](cpi_wage.png)
 
 ------------------------------------------------------------------------
 
@@ -50,3 +50,5 @@ The data presents a clear narrative with important implications:
 -   **Policy is Critical:** Future outcomes will be heavily influenced by policy responses, including wage-setting mechanisms, fiscal supports, and national productivity strategies.
 
 This insight reinforces the importance of not just measuring economic growth, but ensuring it translates to **real improvements in living standards** for everyone.
+
+> Real wages are calculated by adjusting nominal wage growth (***Wage Price Index***) for inflation (***Consumer Price Index***). Specifically, the percentage change in the Wage Price Index (seasonally adjusted) from the previous year's corresponding quarter is reduced by the percentage change in the CPI over the same period

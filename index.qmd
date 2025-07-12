@@ -3,7 +3,7 @@ title: "Samuel Shamiri"
 about:
   id: hero-heading
   template: broadside
-  image: image/sam_ai_web2.png
+  image: image/sam_AI.png
   links:
     - icon: linkedin
       text: linkedin
