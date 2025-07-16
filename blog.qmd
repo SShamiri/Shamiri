@@ -4,8 +4,8 @@ listing:
   - id: cpi_wage
     contents: "blog/pay_squeeze.qmd"
     type: default
-  - id: meeting-notes
-    contents: "meeting-notes/*.qmd"
+  - id: nero
+    contents: "blog/nero.qmd"
     type: default
 ---
 
@@ -16,5 +16,5 @@ listing:
 
 ## Data Science
 
-::: {#meeting-notes}
+::: {#nero}
 :::

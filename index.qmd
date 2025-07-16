@@ -13,7 +13,7 @@ about:
       href: https://github.com/SShamiri
 ---
 
-## ***“No data is clean, but most is useful.”*** ~Dean\ Abbott~
+## ***“No data is clean, but most is useful.”*** ~Dean Abbott~
 
 ::: {#hero-heading}
 Innovative and results-oriented Senior Data Scientist with a PhD in Statistics and over 15 years of experience in advanced statistical modeling, machine learning, large language models (LLMs), and cloud-based analytics. Proven ability to translate complex data into actionable insights for government, public policy, finance, and commercial sectors.
