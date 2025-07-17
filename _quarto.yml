@@ -9,10 +9,11 @@ website:
         text: Home
       - href: resume.qmd
         text: Resume
-      - href: blog.qmd
-        text: Posts
       - href: publications.qmd
         text: Papers
+      - href: blog.qmd
+        text: Blog
+
 
 format:
   html:

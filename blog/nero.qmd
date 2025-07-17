@@ -2,7 +2,8 @@
 title: "Machine Learning Meets the Labour Market"
 subtitle: "🤖 Solving an Economic Blind Spot with Data Science"
 author: "Economic Analytics"
-date: "today"
+date: 03/07/2024
+date-format: long
 format: 
   html:
     theme: cosmo
@@ -41,7 +42,13 @@ The NERO model works by:
 3.  **Adjusting and Scaling:** It intelligently adjusts and scales the final predictions to ensure they remain consistent with broader ABS labour market totals, maintaining statistical integrity.
 :::
 
-![NERO](Nero_flowchart.gif)
+![](Nero_flowchart.gif)
+
+::: {.callout-tip icon="false"}
+Curious about the data science behind NERO? Dive into the full research paper, [Nowcasting the Australian Labour Market at Disaggregated Levels](https://onlinelibrary.wiley.com/doi/10.1111/1467-8462.12464).
+
+Or explore the interactive data for yourself on the [NERO Dashboard](https://www.jobsandskills.gov.au/data/nero/nero-dashboard).
+:::
 
 ### 📈 Real-World Impact
 
